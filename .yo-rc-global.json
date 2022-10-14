@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.9.3": {
+    "promptValues": {
+      "packageName": "ch.luoar.bugtrackerluoar2309",
+      "nativeLanguage": "en"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = ch.luoar.bugtrackerluoar2309.config.TestContainersSpringContextCustomizerFactory
